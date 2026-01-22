@@ -1,12 +1,13 @@
- # CrowdFunding_ETL_Project
+# CrowdFunding_ETL_Project
 Crowdfunding ETL/Database Project
-📌 Project Overview
+
+# 📌Project Overview
 
 This project focuses on designing and implementing a relational PostgreSQL database for managing crowdfunding campaign data. The goal is to transform raw crowdfunding data into a normalized, query-ready database that supports efficient reporting and analysis.
 
 The project demonstrates key data engineering and analytics skills, including data transformation, schema design, SQL database creation, and data validation.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python (Pandas)
 
@@ -20,7 +21,7 @@ CSV files
 
 GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 crowdfunding-database-project/
 │
 ├── Resources/
@@ -34,7 +35,7 @@ crowdfunding-database-project/
 ├── ERD.png
 └── README.md
 
-🔄 Data Extraction & Transformation
+# 🔄 Data Extraction & Transformation
 
 The original crowdfunding dataset was cleaned and transformed using Python and Pandas.
 
@@ -90,7 +91,7 @@ Splitting full names into first_name and last_name
 
 Exported cleaned data to contacts.csv.
 
-🧱 Database Design
+# 🧱 Database Design
 
 An Entity Relationship Diagram (ERD) was created using QuickDBD to model the database structure.
 
@@ -120,7 +121,7 @@ The complete schema is stored in:
 
 crowdfunding_db_schema.sql
 
-🗄️ Database Creation & Data Loading
+# 🗄️ Database Creation & Data Loading
 
 Created a PostgreSQL database named:
 
@@ -141,7 +142,7 @@ contacts.csv
 
 Validated successful imports using SELECT queries.
 
-✅ Key Skills Demonstrated
+# ✅ Key Skills Demonstrated
 
 Data cleaning and transformation (ETL)
 
@@ -155,7 +156,7 @@ Data validation and quality checks
 
 Documentation and reproducibility
 
-📈 Future Enhancements
+# 📈 Future Enhancements
 
 Add analytical SQL queries for insights
 
@@ -165,7 +166,7 @@ Implement a Flask API for data access
 
 Add automated data validation checks
 
-👤 Author
+# 👤 Author
 
 Swayansiddha Sahoo
 Haanah Candido
