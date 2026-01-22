@@ -169,5 +169,5 @@ Add automated data validation checks
 # 👤 Author
 
 Swayansiddha Sahoo
-Haanah Candido
-Data Analyst
+\Haanah Candido
+(Data Analyst)
