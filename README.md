@@ -1,5 +1,5 @@
-# CrowdFunding_ETL_Project
-Crowdfunding ETL/Database Project
+# # CrowdFunding_ETL_Project
+# Crowdfunding ETL/Database Project
 📌 Project Overview
 
 This project focuses on designing and implementing a relational PostgreSQL database for managing crowdfunding campaign data. The goal is to transform raw crowdfunding data into a normalized, query-ready database that supports efficient reporting and analysis.
