@@ -168,6 +168,6 @@ Add automated data validation checks
 
 # 👤 Author
 
-Swayansiddha Sahoo
+Swayansiddha Sahoo (Data Analyst)
 \Haanah Candido
 (Data Analyst)
